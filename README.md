@@ -1,3 +1,3 @@
 # chimim
 
-An better chim
+chim IMproved :)
