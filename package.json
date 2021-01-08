@@ -1,0 +1,24 @@
+{
+  "name": "chimim",
+  "version": "1.0.0",
+  "description": "chim IMproved :)",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bgfxc4/chimim.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bgfxc4/chimim/issues"
+  },
+  "homepage": "https://github.com/bgfxc4/chimim#readme",
+  "dependencies": {
+    "@types/blessed": "^0.1.17",
+    "blessed": "^0.1.81",
+    "discord.js": "^12.5.1"
+  }
+}
